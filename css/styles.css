@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body {
+	/*padding: 40px;*/
+}
+
+body, p { 
+	font-size: 24px;
+}
+
+#video{
+	width: 100%;
+	min-height: 600px;
+}
+
+#nav > h4 {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.blue{
+	color: blue;
+}
